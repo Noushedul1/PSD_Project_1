@@ -1,0 +1,63 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css");
+*{
+    font-family: 'Myriad Pro', sans-serif;
+    padding: 0;
+    margin: 0;
+}                                             
+// start navigation
+// end navigation
+// start banner
+// end banner
+// start our chef
+#ourChef{
+    background: #f6eedf;
+}
+// end our chef 
+// start burger 
+#bestBurger{
+    background: #f64b3c;
+}
+// end burger 
+// start big burger 
+#bigBurger{
+    background: #f6eedf;
+}
+// end big burger 
+// start statistics
+#statistics{
+    background: #f64b3c;
+}
+// end statistics
+// start popular packager
+#populerPackager{
+    background: #f6eedf;
+}
+.package{
+    background: #ffffff;
+    margin: 10px;
+    padding: 10px;
+}
+#populerPackager button{
+    display: inline-block;
+}
+// end popular packager
+// start quote
+// end quote
+// start form 
+#form{
+    background: #f6eedf;
+    padding: 40px;
+}
+// end form 
+// start footer 
+.footerdiv{
+    background: black;
+    padding: 50px;
+}
+.footerdiv ul li{
+    list-style-type: none;
+    a:link{
+        color: white !important;
+    }
+}
+// end footer 
